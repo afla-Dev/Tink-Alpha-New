@@ -358,7 +358,7 @@ const Circuit = () => {
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-3">
-              <img src="/lovable-uploads/6ffc8098-6922-435a-99ef-f9c11d2729c4.png" alt="TinkerAlpha" className="h-8 w-auto" />
+              <img src="/uploads/6ffc8098-6922-435a-99ef-f9c11d2729c4.png" alt="TinkerAlpha" className="h-8 w-auto" />
               <h1 className="text-3xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
                 TinkerAlpha ⚡
               </h1>
